@@ -1,3 +1,3 @@
-![Peri](peri.png "Peri Organization")
+![Peri](profile/peri.png "Peri Organization")
 ---
 
